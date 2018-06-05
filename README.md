@@ -1,3 +1,2 @@
-"# Synchronizer-Token-Patterns" 
-"# WEB-App--RESTful-API-" 
-"# WEB-App--RESTful-API-" 
+# -SynchronizerTokens-php
+ Synchronizer Token Patterns Example with PHP
